@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://veepee-referral-code.vercel.app/sitemap.xml
