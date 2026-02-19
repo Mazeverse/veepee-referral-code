@@ -1,0 +1,71 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #ff7e8a, #ff4fa3);
+  color: #333;
+}
+
+.container {
+  max-width: 720px;
+  margin: 40px auto;
+  background: white;
+  padding: 40px;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+  text-align: center;
+}
+
+h1 {
+  color: #ff2d86;
+}
+
+.intro {
+  margin-bottom: 30px;
+}
+
+.card {
+  background: #fff5f8;
+  padding: 25px;
+  border-radius: 12px;
+  margin-bottom: 30px;
+}
+
+input {
+  width: 100%;
+  padding: 12px;
+  margin-top: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+button {
+  margin-top: 12px;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 8px;
+  background: #ff2d86;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #e02474;
+}
+
+.visit {
+  display: block;
+  margin-top: 15px;
+  text-decoration: none;
+  background: #ff2d86;
+  color: white;
+  padding: 12px;
+  border-radius: 8px;
+}
+
+.updated {
+  margin-top: 30px;
+  font-size: 14px;
+  color: #777;
+}
